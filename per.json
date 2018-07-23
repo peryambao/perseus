@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Baroro Bacnotan La Union",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
+    "imageUrl": "https://raw.githubusercontent.com/peryambao/perseus/master/baroro.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.703858,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Sta veronica college",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/peryambao/perseus/master/sta%20veronica.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 16.700782,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "River Farm",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/peryambao/perseus/master/riverfarm.jpg",
     "price": 150,
     "priceCurrency": "PESO",
     "lat": 16.710797,
