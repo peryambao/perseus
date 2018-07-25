@@ -19,38 +19,119 @@
   },
   {
     "id": 201,
-    "name": "River Farm",
+    "name": "Baguio",
     "imageUrl": "https://raw.githubusercontent.com/peryambao/perseus/master/riverfarm.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.710797,
-    "lng": 120.343398
+    "lat": 16.402333,
+    "lng": 120.596007
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Banaue",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
     "priceCurrency": "PESO",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.949626,
+    "lng": 121.102294
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Bohol",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 9.849991,
+    "lng": 124.143543
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
-  }
+    "lat": 11.967375,
+    "lng": 121.924815
+  },
+  {
+    "id": 211,
+    "name": "Camiguin",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 9.173216,
+    "lng": 124.729877
+  },
+  {
+    "id": 211,
+    "name": "Coron",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 12.049926,
+    "lng": 120.178175
+  },
+  {
+    "id": 211,
+    "name": "Legazpi, Albay",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 13.139062,
+    "lng": 123.743800
+  },
+  {
+    "id": 211,
+    "name": "Mindoro",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 13.116227,
+    "lng": 121.079370
+  },
+  {
+    "id": 211,
+    "name": "Puerto Princesa",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 9.967216,
+    "lng": 118.785510
+  },
+  {
+    "id": 211,
+    "name": "Siargao",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 9.848188,
+    "lng": 126.045844
+  },
+  {
+    "id": 211,
+    "name": "Subic",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 14.896794,
+    "lng": 120.236630
+  },
+  {
+    "id": 211,
+    "name": "Tagaytay",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 14.115286,
+    "lng": 120.962116
+  },
+  {
+    "id": 211,
+    "name": "Vigan",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 17.570490,
+    "lng": 120.387330
+  }, 
 ]
