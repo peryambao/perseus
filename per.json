@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Sta veronica college",
+    "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/peryambao/perseus/master/sta%20veronica.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 16.700782,
-    "lng": 120.338776
+    "lat": 17.570490,
+    "lng": 120.387330
   },
   {
     "id": 201,
